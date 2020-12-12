@@ -1,20 +1,21 @@
 # Data Structures and Algorithms
-Todo: Dynamic Array w/ Ring Buffer, Union Find, Prefix&Suffix Tree
 
-## Data Structures in C 
+## Data Structures 
 1. Queue
 2. Stack
 3. Circular Queue
 4. Priority Queue(Max Heap implementation)
+5. Hash Table with Chaining
+6. Fibonacci Heap
+7. Binary Tree 
+8. Trie(Prefix Tree)
 
-## Algorithms TODO
-Binary search (implement it both iteratively and recursively)
-Randomized quicksort (pay extra attention to the partition subroutine, as it’s useful in a lot of places)
-Mergesort
-Heapsort
-Breadth-first search in a graph
-Depth-first search in a graph (augment it to detect cycles)
-Tree traversals (pre-order, in-order, post-order)
+## Algorithms 
+1. Tree Traversals(Pre-order, In-order, Post-order)
+2. MergeSort, QuickSort, HeapSort
+3. Binary Search
+4. BFS, DFS
+
 Topological sort (using Tarjan’s algorithm)
 Dijkstra’s algorithm (without decrease-key)
 Longest common subsequence (using dynamic programming with matrices)
