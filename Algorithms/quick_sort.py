@@ -1,6 +1,6 @@
 def partition(array, low, high):
     pivot = array[high]
-    i = low - 1
+    i = low - 1  # pointer to track elements greater than pivot
 
     for j in range(low, high):
         if array[j] <= pivot:
