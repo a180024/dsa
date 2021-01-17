@@ -1,8 +1,10 @@
 INF = float("inf")
+
+
 def Prims(G, V):
     edges = 0
     selected = [0] * V
-    selected[0] = True # Start from the first vertex
+    selected[0] = True  # Start from the first vertex
 
     while edges < V - 1:
         minimum = INF
@@ -11,7 +13,7 @@ def Prims(G, V):
         for i in range(V):
             if selected[i]:
                 for j in range(V):
-                    if ((not selected[j]) and G[i][j]):
+                    if (not selected[j]) and G[i][j]:
                         if G[i][j] < minimum:
                             minimum = G[i][j]
                             x, y = i, j

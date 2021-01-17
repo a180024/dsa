@@ -59,7 +59,7 @@ class Graph:
             if x != y:
                 e = e + 1
                 result.append([u, v, w])
-                self.union(parent , x, y)
+                self.union(parent, x, y)
             # Else discard the edge
 
         minimumCost = 0
