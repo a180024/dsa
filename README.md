@@ -20,7 +20,7 @@
 7. Minimum Spanning Trees(Kruskal's, Prim's) 
 7. Dynamic Programming(Longest Common Subsequence, Knapsack Problem) TODO
 8. Backtracking TODO
-9. LRU Cache TODO
+9. LRU Cache 
 
 ## Bit Manipulation TODO
 1. Count the number of 1's
