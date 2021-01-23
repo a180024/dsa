@@ -19,7 +19,7 @@
 6. Topologiocal Sort TODO
 7. Minimum Spanning Trees(Kruskal's, Prim's) 
 7. Dynamic Programming(Longest Common Subsequence, Knapsack Problem) TODO
-8. Backtracking TODO
+8. Backtracking 
 9. LRU Cache 
 
 ## Bit Manipulation TODO
