@@ -18,7 +18,7 @@
 5. Weighted Graphs(Dijstra, Bellman Ford) 
 6. Topologiocal Sort TODO
 7. Minimum Spanning Trees(Kruskal's, Prim's) 
-7. Dynamic Programming(Longest Common Subsequence, Knapsack Problem) TODO
+7. Dynamic Programming
 8. Backtracking 
 9. LRU Cache 
 
